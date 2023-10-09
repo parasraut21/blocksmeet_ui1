@@ -28,10 +28,9 @@ const FileUpload = ({account}) => {
           data: formData,
           headers: {
             // pinata_api_key: `ba976f7f1755c3f08e18`,
-            pinata_api_key: `
-            b62f7481887ea2bfc824`,
+            pinata_api_key: `ea23e88f2a89ec4317a6`,
             pinata_secret_api_key: `
-            5a62a3066b17412e495ed6493292c076cc96b516245086695ff66656ca98a9e9`,
+            12d0d50af9e8be6daa8b94b36dd2c39ae303470fae5532904eb9518e65e78485`,
             "Content-Type": "multipart/form-data",
           },
         });

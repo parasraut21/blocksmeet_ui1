@@ -634,9 +634,10 @@ function addPeer(incomingSignal, callerID, stream) {
           data: formData,
           headers: {
             // pinata_api_key: `ba976f7f1755c3f08e18`,
-            pinata_api_key: `620861d0c860a7e660c2`,
+            pinata_api_key: `
+            ea23e88f2a89ec4317a6`,
             pinata_secret_api_key: `
-            0f56c486c84ffd95e0f2928d48e332e3de0679c786247cb524887f3a4dae31a8`,
+            12d0d50af9e8be6daa8b94b36dd2c39ae303470fae5532904eb9518e65e78485`,
             "Content-Type": "multipart/form-data",
           },
         });
